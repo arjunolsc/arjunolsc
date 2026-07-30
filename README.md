@@ -1,33 +1,25 @@
-<div align="center">
+## Arjun
 
-# Hi, I'm Arjun 👋
+**ERPNext/Frappe Developer · Full-Stack (Java, React, Node.js)**
 
-**Full-Stack Developer · Computer Science @ Chitkara University**
+| | |
+|---|---|
+| **Languages** | Java, SQL, JavaScript |
+| **Frontend** | React.js |
+| **Backend** | Node.js, Spring Boot |
+| **Database** | MongoDB |
+| **Cloud** | AWS |
+| **Toolkit** | Git, REST APIs, DSA |
+| | |
+| **Currently** | Customizing Frappe/ERPNext HR systems @ OM Logistics Supply Chain |
+| **Education** | B.E. CSE, Chitkara University — CGPA 8.84/10 (Exp. 2026) |
+| **Portfolio** | [arjun_theme](https://github.com/arjunolsc/arjun_theme) — Frappe/ERPNext Desk theme |
+| **Email** | arjun154.be22@chitkara.edu.in |
 
-</div>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjun154.be22@chitkara.edu.in)
+[![arjun_theme](https://img.shields.io/badge/arjun__theme-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arjunolsc/arjun_theme)
 
-<table>
-<tr>
-<td valign="top">
-
-**Languages**  &nbsp; Java, SQL, JavaScript
-**Frontend**   &nbsp; React.js
-**Backend**    &nbsp; Node.js, Spring Boot
-**Database**   &nbsp; MongoDB
-**Cloud**      &nbsp; AWS
-**Toolkit**    &nbsp; Git, REST APIs, DSA
-
-</td>
-<td valign="top">
-
-**Currently**  &nbsp; Customizing Frappe/ERPNext HR systems
-**Education**  &nbsp; B.E. CSE, Chitkara University (Exp. 2026)
-**Email**      &nbsp; arjun154.be22@chitkara.edu.in
-**Portfolio**  &nbsp; [arjun_theme](https://github.com/arjunolsc/arjun_theme)
-
-</td>
-</tr>
-</table>
+![Profile views](https://komarev.com/ghpvc/?username=arjunolsc&color=blue&style=flat-square&label=Profile+Views)
 
 <div align="center">
 
