@@ -1,25 +1,35 @@
-## Arjun
+<table border="1" cellpadding="20" cellspacing="0" width="100%">
+<tr>
+<td valign="top">
 
-**ERPNext/Frappe Developer · Full-Stack (Java, React, Node.js)**
+### Arjun
+*ERPNext/Frappe Developer · Exploring Full-Stack + Agentic tooling*
 
-| | |
-|---|---|
-| **Languages** | Java, SQL, JavaScript |
-| **Frontend** | React.js |
-| **Backend** | Node.js, Spring Boot |
-| **Database** | MongoDB |
-| **Cloud** | AWS |
-| **Toolkit** | Git, REST APIs, DSA |
-| | |
-| **Currently** | Customizing Frappe/ERPNext HR systems @ OM Logistics Supply Chain |
-| **Education** | B.E. CSE, Chitkara University — CGPA 8.84/10 (Exp. 2026) |
-| **Portfolio** | [arjun_theme](https://github.com/arjunolsc/arjun_theme) — Frappe/ERPNext Desk theme |
-| **Email** | arjun154.be22@chitkara.edu.in |
+**Languages** &nbsp;&nbsp;&nbsp; Java, SQL, JavaScript
+**Frontend** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; React.js
+**Backend** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Node.js, Spring Boot
+**Database** &nbsp;&nbsp;&nbsp;&nbsp; MongoDB
+**Cloud** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AWS
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjun154.be22@chitkara.edu.in)
-[![arjun_theme](https://img.shields.io/badge/arjun__theme-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arjunolsc/arjun_theme)
+**Currently** &nbsp;&nbsp; Customizing Frappe/ERPNext HR systems @ OM Logistics Supply Chain
+**Education** &nbsp;&nbsp; B.E. CSE, Chitkara University (CGPA 8.84/10, exp. 2026)
+**Portfolio** &nbsp;&nbsp;&nbsp; [arjun_theme](https://github.com/arjunolsc/arjun_theme)
+**Email** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; arjun154.be22@chitkara.edu.in
 
-![Profile views](https://komarev.com/ghpvc/?username=arjunolsc&color=blue&style=flat-square&label=Profile+Views)
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8EA1E0&center=true&vCenter=true&width=500&lines=Building+on+Frappe+%2F+ERPNext;Full-Stack+with+Java+%2B+React+%2B+Node.js)](https://git.io/typing-svg)
+
+[![Email](https://img.shields.io/badge/EMAIL-8B0000?style=for-the-badge)](mailto:arjun154.be22@chitkara.edu.in)
+[![arjun_theme](https://img.shields.io/badge/ARJUN__THEME-1e3a8a?style=for-the-badge)](https://github.com/arjunolsc/arjun_theme)
+
+![Profile views](https://komarev.com/ghpvc/?username=arjunolsc&color=8EA1E0&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
 
 <div align="center">
 
